@@ -97,6 +97,20 @@ The exam measures your ability to accomplish the following technical tasks:
  
  
  <br>
+ 
+ ### Intercative Guided and Video
+ ----------
+ * Explore how to manage your Microsoft 365 licenses
+     * [Interactive](https://mslearn.cloudguides.com/guides/Manage%20licenses%20in%20Microsoft%20365)
+ * Explore your Microsoft 365 support options
+     * [Interactive](https://mslearn.cloudguides.com/guides/Discover%20support%20options%20in%20Microsoft%20365)
+ * Explore the Microsoft 365 admin center 
+     * [Interactive](https://mslearn.cloudguides.com/guides/Get%20to%20know%20the%20Microsoft%20365%20admin%20center)
+     * [Video](https://www.microsoft.com/videoplayer/embed/RE44vAc)
+
+
+ 
+ <br>
 
 ### Repositories
 ----------
