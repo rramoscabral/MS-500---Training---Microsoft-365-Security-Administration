@@ -26,6 +26,7 @@ Duration: 4 Days
 * [MS-500T03: Implementing Microsoft 365 Information Protection](https://docs.microsoft.com/en-us/learn/certifications/courses/ms-500t03)
 * [MS-500T04: Administering Microsoft 365 Built-in Compliance](https://docs.microsoft.com/en-us/learn/certifications/courses/ms-500t04)
 
+
 <br>
 
 ### Lab setup
@@ -48,14 +49,22 @@ The exam measures your ability to accomplish the following technical tasks:
 
 [Consult the Skills measured.](https://docs.microsoft.com/en-us/learn/certifications/exams/ms-500)
 
+
 <br>
-
-
 
 ### Labs and workshops
 ----------
   * [Windows and Office Deployment Lab Kit](https://docs.microsoft.com/en-us/microsoft-365/enterprise/modern-desktop-deployment-and-management-lab)
 
+
+<br>
+
+### Test areas
+----------
+ * [Test Microsoft Defender Advanced Threat Protection (ATP)](https://demo.wd.microsoft.com/?ocid=cx-wddocs-testground)
+
+
+<br>
 
 ### Resources
 ----------
@@ -65,15 +74,12 @@ The exam measures your ability to accomplish the following technical tasks:
 * [Microsoft Security Overview & Cyber Reference Architecture](http://aka.ms/mcra)
 
 
-
 <br>
-
 
 ### Free eBooks
 ----------
  * [Mapping Microsoft Cyber Offerings to: NIST Cybersecurity (CSF), CIS Controls and ISO27001:2013 Frameworks](https://aka.ms/CyberMapping)
 
- 
  
 <br>
 
@@ -81,10 +87,16 @@ The exam measures your ability to accomplish the following technical tasks:
 ### Videos
 ----------
  * No information / Available when possible
+  
+ 
+ <br>
+ 
+ ### Online Guided Click Through
+ ----------
+ * [Microsoft Information Protection](https://msiphtml.z5.web.core.windows.net)
  
  
  <br>
-
 
 ### Repositories
 ----------
@@ -92,7 +104,6 @@ The exam measures your ability to accomplish the following technical tasks:
    
    
  <br>
-
 
 ### Community
 ----------
